@@ -1,8 +1,7 @@
-Team SPiN
+## EduHacks Hackathon 2017 Team Project Developed in Unity.
+### Team SPiN
 
-EduHacks Hackathon 2017 Team Project made in Unity.
-
-Members:<br>
+**Members:**<br>
 Daniel Kang<br>
 Peter Park<br>
 Alice Kim<br>
