@@ -1,4 +1,4 @@
-## EduHacks Hackathon 2017 Team Project Developed in Unity.
+## EduHacks Hackathon 2017 Team Project Developed in Unity
 ### Team SPiN
 
 **Members:**<br>
